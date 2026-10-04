@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194003966867",
+    "project_id": "blooddonar-dfde5",
+    "storage_bucket": "blooddonar-dfde5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194003966867:android:15e3594f2699a6abf7a666",
+        "android_client_info": {
+          "package_name": "com.example.blood_donor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASxzQYsD2KdkNQHrEGNQ1nOFJO9IHKWYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
